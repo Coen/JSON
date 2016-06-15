@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    margin: 0 auto;
+    padding: 0;
+    width: 960px;
+}
+h4 {
+    background-color: #ccc;
+    margin: 0;
+}
+.holder {
+    width: 300px;
+    height: 240px;
+    float: left;
+    margin: 10px;
+    padding: 0;
+}
+.image {
+    width: 300px;
+    height: 180px;
+    overflow: hidden;
+}
+.image img {
+    width: 100%;
+}
+
+/* Validatie*/
+
+
+ #validatie img {
+   height: 1.5em;
+   width: auto;
+   border: 0;
+   margin: 0 .3em;
+}
